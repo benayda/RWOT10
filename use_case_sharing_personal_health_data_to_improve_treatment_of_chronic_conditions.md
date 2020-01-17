@@ -17,8 +17,8 @@ with their physicians to monitor and better manage their chronic conditions.
 
 ## Open mHealth and IEEE P1752 Standard for Mobile Health Data
 Believing that no single app or device provides all the information for an individual’s health story, Open 
-mHealth plans to make patient-generated data from disparate sources accessible and to provide an 
-interoperability standard for harmonizing and helping to make sense of digital health data. A working 
+mHealth is focused on making patient-generated data from disparate sources accessible, providing an 
+interoperability standard for harmonizing and helping make sense of digital health data. A working 
 group is currently developing the IEEE P1752 Standard for Mobile Health Data, with the scope and 
 purpose described below. (Note: I recently joined the working group).
 > Scope:  This standard will define specifications for a mobile health data applications programming 
@@ -40,7 +40,7 @@ exchanging healthcare information electronically. The standard includes a Securi
 module, which describes access control and authorization to protect a FHIR server, consent 
 documenting the permissions a user has granted, and provenance and audit logging to record 
 events that have been performed. While the FHIR specification provides a set of building blocks
-to create secure, private systems, it does specify a particular technical approach to security and privacy.
+to create secure, private systems, it doesn't specify any particular technical approach to security and privacy.
 
 *	The IEEE P7002 Data Privacy Process standard defines requirements for a systems/software 
 engineering process for privacy oriented considerations for organizations and projects developing 
